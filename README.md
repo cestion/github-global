@@ -8,6 +8,13 @@
 
 
 
+## 🌐 Translations
+
+[English](./translations/en/README.md)
+
+---
+
+
 ## 一、项目介绍
 
 这是一套以 **AI 编程实战** 为核心的项目教程，基于 Next.js + GitHub App + OpenRouter，用 AI 编程的方式从 0 到 1 开发一个《GitHub 仓库 AI 文档翻译 SaaS 平台》，带你亲身体验 AI Vibe Coding 的完整工作流，学会用 AI 做出真正能用、能部署、能赚钱的产品！
